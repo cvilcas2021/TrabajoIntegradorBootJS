@@ -1,0 +1,29 @@
+nav img {
+    width: 120px;
+}
+
+.text-oradores{
+    text-align: center;
+}
+
+.card {
+    padding: 10px;
+}
+
+.centrado {
+    color: white;
+    position: absolute;
+    top: 60%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    text-align: right;
+}
+
+
+ footer{
+     background-color: #214d67;
+     color: white;
+     height: 70px;
+     width: 100%;
+ }
+
